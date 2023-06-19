@@ -1,0 +1,6 @@
+Null Values- https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe
+
+replace null values categorical Data - https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/
+
+replace null value with mean numerical data - https://thispointer.com/pandas-replace-nan-with-mean-or-average-in-dataframe-using-fillna/
+

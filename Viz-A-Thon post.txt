@@ -1,0 +1,7 @@
+Having the skill to create beautiful and insightful visualizations is a great arsenal to have in one’s pocket and I always wish I had more time to hone that skill. 
+I had the honor of not only participating but also finishing as runner-up in my first Viz-A-Thon, Data Viz with these awesome friends as my teammates: Analytics Crew -@siddhesh @pranav.
+
+In the first round, we were given three data sets that included details about customers, products, sales, and other attributes. The next step was to extract any potentially interesting insights from one of these three data sets and then produce a set of visualizations to convey these insights. Although the insights were significant, the style of the visualization was crucial. 8 teams were chosen for round two out of the 43 teams that competed in round one. We advanced to round two, where we presented our visualization and received feedback from our expert judges from datametica Anil Sheela, and Rajesh.
+
+It was a great learning experience! Thank you @parikshit sir @prachi maam @suvarna maam and Aisa for organizing such a great event.
+ 
